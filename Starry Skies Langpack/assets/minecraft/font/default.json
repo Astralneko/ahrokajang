@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:Truth-and-Ideals.ttf",
+            "shift": [0, 0],
+			"size": 12.0,
+			"oversample": 192.0
+        }
+	]
+}
